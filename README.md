@@ -4,7 +4,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-   <span> App iNEWs to learn English </h1> <h2> DIO Santander Bootcamp 2023</span>
+   <span> iFlix </h1> <h2> DIO Santander Bootcamp 2023</span>
 </h2>
        
 <p align="center"> <img align="center" width="150px" src="https://hermes.dio.me/tracks/61d57203-7c43-4d8d-a3f0-833faa2ce680.png"></p>
@@ -13,32 +13,30 @@
 </h2>
 Estudo ingles e  construir um APP com noticias variadas. 
 
-Aplicativo de notícias em SwiftUI, usando a arquitetura MVVM e a framework Combine do SwiftUI. O aplicativo busca dados de uma API de notícias e utiliza o Swift Package Manager para gerenciar o download de imagens de forma assíncrona. O desafio envolveu configuração de endpoints da API, tratamento de erros e implementação de um serviço para solicitar dados da API e uso de estados para controlar a exibição da interface do usuário com base nas respostas da API.
+Aplicativo de videos iOS usando o Swift 5. O instrutor. O projeto inclui recursos como listas de filmes populares, pesquisa, trailers de filmes e uma interface de usuário intuitiva.
 
 ## ✅ Features
-📱 Criação de um aplicativo de notícias em SwiftUI. <br>
-🔄 Utilização do padrão MVVM (Model-View-ViewModel).<br>
-🌐 Integração com uma API para obter dados de notícias.<br>
-🚀 Uso do Combine para lidar com fluxos de dados assíncronos.<br>
-📦 Gerenciamento de pacotes Swift para download de imagens de forma assíncrona.<br>
-🧐 Tratamento de erros na aplicação.<br>
-🤖 Uso de estados para controlar a interface do usuário com base nas respostas da API.
+📱 Desenvolvimento iOS com Swift 5.
+🍿 Criação de um concorrente open source para Netflix.
+📺 Interface de usuário semelhante à da Netflix.
+🎬 Listas de filmes populares e próximos.
+🔍 Recurso de pesquisa.
+🎥 Reprodução de trailers de filmes.
 <br>
 <br>
 
 ## ✅ Extras
-📱 Splash Screen com animation e DispatchQueue <br>
 
 
 ## 📱 Technologies and knowledges 
-- SwiftUI 
+- UIKit 
 - MVVM 
-- API: https://api.lil.software/news
+- APIs : https://api.themoviedb.org + https://youtube.googleapis.com/youtube/v3
 - JSON to struct: https://app.quicktype.io/
-- Package URLImage: https://github.com/dmytro-anokhin/url-image
-
+- Packages : 
 
 ## 📲 Images
+TODO
 <img align="center" width="200px" src="https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander/blob/main/images/inews.gif"> <img align="center" width="200px" src="https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander/blob/main/images/inews1.png"> <img align="center" width="200px" src="https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander/blob/main/images/inews2.png"> <img align="center" width="200px" src="https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander/blob/main/images/inewserror.png">
   
   
