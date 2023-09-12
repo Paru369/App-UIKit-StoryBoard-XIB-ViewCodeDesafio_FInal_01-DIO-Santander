@@ -9,21 +9,29 @@
 /* Begin PBXBuildFile section */
 		4168052F2AB0CD3E007F4D15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4168052E2AB0CD3E007F4D15 /* AppDelegate.swift */; };
 		416805312AB0CD3E007F4D15 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 416805302AB0CD3E007F4D15 /* SceneDelegate.swift */; };
-		416805332AB0CD3E007F4D15 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 416805322AB0CD3E007F4D15 /* ViewController.swift */; };
+		416805332AB0CD3E007F4D15 /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 416805322AB0CD3E007F4D15 /* MainTabBarViewController.swift */; };
 		416805362AB0CD3E007F4D15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 416805342AB0CD3E007F4D15 /* Main.storyboard */; };
 		416805382AB0CD40007F4D15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 416805372AB0CD40007F4D15 /* Assets.xcassets */; };
 		4168053B2AB0CD40007F4D15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 416805392AB0CD40007F4D15 /* LaunchScreen.storyboard */; };
+		41B2229D2AB1165B00C2E23C /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B2229C2AB1165B00C2E23C /* HomeViewController.swift */; };
+		41B2229F2AB116F100C2E23C /* UpcomingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B2229E2AB116F100C2E23C /* UpcomingViewController.swift */; };
+		41B222A12AB1172300C2E23C /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222A02AB1172300C2E23C /* SearchViewController.swift */; };
+		41B222A32AB1176700C2E23C /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222A22AB1176700C2E23C /* DownloadsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		4168052B2AB0CD3E007F4D15 /* iFlix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iFlix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4168052E2AB0CD3E007F4D15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		416805302AB0CD3E007F4D15 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		416805322AB0CD3E007F4D15 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		416805322AB0CD3E007F4D15 /* MainTabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarViewController.swift; sourceTree = "<group>"; };
 		416805352AB0CD3E007F4D15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		416805372AB0CD40007F4D15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4168053A2AB0CD40007F4D15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4168053C2AB0CD40007F4D15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41B2229C2AB1165B00C2E23C /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		41B2229E2AB116F100C2E23C /* UpcomingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingViewController.swift; sourceTree = "<group>"; };
+		41B222A02AB1172300C2E23C /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		41B222A22AB1176700C2E23C /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +64,27 @@
 		4168052D2AB0CD3E007F4D15 /* iFlix */ = {
 			isa = PBXGroup;
 			children = (
+				41B2229B2AB1161500C2E23C /* Controllers */,
 				4168052E2AB0CD3E007F4D15 /* AppDelegate.swift */,
 				416805302AB0CD3E007F4D15 /* SceneDelegate.swift */,
-				416805322AB0CD3E007F4D15 /* ViewController.swift */,
+				416805322AB0CD3E007F4D15 /* MainTabBarViewController.swift */,
 				416805342AB0CD3E007F4D15 /* Main.storyboard */,
 				416805372AB0CD40007F4D15 /* Assets.xcassets */,
 				416805392AB0CD40007F4D15 /* LaunchScreen.storyboard */,
 				4168053C2AB0CD40007F4D15 /* Info.plist */,
 			);
 			path = iFlix;
+			sourceTree = "<group>";
+		};
+		41B2229B2AB1161500C2E23C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				41B2229C2AB1165B00C2E23C /* HomeViewController.swift */,
+				41B2229E2AB116F100C2E23C /* UpcomingViewController.swift */,
+				41B222A02AB1172300C2E23C /* SearchViewController.swift */,
+				41B222A22AB1176700C2E23C /* DownloadsViewController.swift */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +158,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				416805332AB0CD3E007F4D15 /* ViewController.swift in Sources */,
+				41B222A12AB1172300C2E23C /* SearchViewController.swift in Sources */,
+				416805332AB0CD3E007F4D15 /* MainTabBarViewController.swift in Sources */,
+				41B222A32AB1176700C2E23C /* DownloadsViewController.swift in Sources */,
 				4168052F2AB0CD3E007F4D15 /* AppDelegate.swift in Sources */,
 				416805312AB0CD3E007F4D15 /* SceneDelegate.swift in Sources */,
+				41B2229F2AB116F100C2E23C /* UpcomingViewController.swift in Sources */,
+				41B2229D2AB1165B00C2E23C /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
