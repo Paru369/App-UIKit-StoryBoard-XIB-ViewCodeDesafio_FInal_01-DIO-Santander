@@ -64,6 +64,11 @@
 		4168052D2AB0CD3E007F4D15 /* iFlix */ = {
 			isa = PBXGroup;
 			children = (
+				41B222A82AB2314700C2E23C /* Managers */,
+				41B222A72AB2313300C2E23C /* Resources */,
+				41B222A62AB230F400C2E23C /* Models */,
+				41B222A42AB22F4200C2E23C /* Views */,
+				41B222A52AB22F6500C2E23C /* ViewModels */,
 				41B2229B2AB1161500C2E23C /* Controllers */,
 				4168052E2AB0CD3E007F4D15 /* AppDelegate.swift */,
 				416805302AB0CD3E007F4D15 /* SceneDelegate.swift */,
@@ -85,6 +90,41 @@
 				41B222A22AB1176700C2E23C /* DownloadsViewController.swift */,
 			);
 			path = Controllers;
+			sourceTree = "<group>";
+		};
+		41B222A42AB22F4200C2E23C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		41B222A52AB22F6500C2E23C /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		41B222A62AB230F400C2E23C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		41B222A72AB2313300C2E23C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		41B222A82AB2314700C2E23C /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
