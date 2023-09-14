@@ -7,7 +7,23 @@
 
 import UIKit
 
+enum Sections: Int {
+    case TrendingMovies = 0
+    case TrendingTv = 1
+    case Popular = 2
+    case Upcoming = 3
+    case TopRated = 4
+}
+
+
+
+
 class HomeViewController: UIViewController {
+    
+    private var randomTrendingMovie: Title?
+       private var headerView: HeroHeaderUIView?
+       
+       let sectionTitles: [String] = ["Trending Movies", "Trending Tv", "Popular", "Upcoming Movies", "Top rated"]
 
     private let homeFeedTable: UITableView = {
         let table = UITableView(frame:. zero, style: .grouped )
@@ -83,6 +99,10 @@ extension HomeViewController: UITableViewDelegate, UITableViewDataSource {
         return 400
         
     }
+    
+    func tableView(_ tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
+          return sectionTitles[section]
+      }
     
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
             let defaultOffset = view.safeAreaInsets.top

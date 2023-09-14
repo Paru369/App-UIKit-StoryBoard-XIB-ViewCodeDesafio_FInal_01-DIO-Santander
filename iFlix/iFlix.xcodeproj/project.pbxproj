@@ -19,6 +19,7 @@
 		41B222A32AB1176700C2E23C /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222A22AB1176700C2E23C /* DownloadsViewController.swift */; };
 		41B222AA2AB231C600C2E23C /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222A92AB231C600C2E23C /* CollectionViewTableViewCell.swift */; };
 		41B222AC2AB3990F00C2E23C /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222AB2AB3990F00C2E23C /* HeroHeaderUIView.swift */; };
+		41B222B02AB3C97E00C2E23C /* TitleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222AF2AB3C97E00C2E23C /* TitleModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		41B222A22AB1176700C2E23C /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		41B222A92AB231C600C2E23C /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		41B222AB2AB3990F00C2E23C /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
+		41B222AF2AB3C97E00C2E23C /* TitleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				41B2229C2AB1165B00C2E23C /* HomeViewController.swift */,
+				41B222AF2AB3C97E00C2E23C /* TitleModel.swift */,
 				41B2229E2AB116F100C2E23C /* UpcomingViewController.swift */,
 				41B222A02AB1172300C2E23C /* SearchViewController.swift */,
 				41B222A22AB1176700C2E23C /* DownloadsViewController.swift */,
@@ -204,6 +207,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41B222B02AB3C97E00C2E23C /* TitleModel.swift in Sources */,
 				41B222A12AB1172300C2E23C /* SearchViewController.swift in Sources */,
 				416805332AB0CD3E007F4D15 /* MainTabBarViewController.swift in Sources */,
 				41B222AA2AB231C600C2E23C /* CollectionViewTableViewCell.swift in Sources */,
