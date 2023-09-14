@@ -19,7 +19,6 @@
 		41B222A32AB1176700C2E23C /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222A22AB1176700C2E23C /* DownloadsViewController.swift */; };
 		41B222AA2AB231C600C2E23C /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222A92AB231C600C2E23C /* CollectionViewTableViewCell.swift */; };
 		41B222AC2AB3990F00C2E23C /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222AB2AB3990F00C2E23C /* HeroHeaderUIView.swift */; };
-		41B222AE2AB39BA600C2E23C /* iflix.png in Resources */ = {isa = PBXBuildFile; fileRef = 41B222AD2AB39BA600C2E23C /* iflix.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +36,6 @@
 		41B222A22AB1176700C2E23C /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		41B222A92AB231C600C2E23C /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		41B222AB2AB3990F00C2E23C /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
-		41B222AD2AB39BA600C2E23C /* iflix.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iflix.png; path = ../../../../../Downloads/iflix.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +79,6 @@
 				416805322AB0CD3E007F4D15 /* MainTabBarViewController.swift */,
 				416805342AB0CD3E007F4D15 /* Main.storyboard */,
 				416805372AB0CD40007F4D15 /* Assets.xcassets */,
-				41B222AD2AB39BA600C2E23C /* iflix.png */,
 				416805392AB0CD40007F4D15 /* LaunchScreen.storyboard */,
 				4168053C2AB0CD40007F4D15 /* Info.plist */,
 			);
@@ -194,7 +191,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41B222AE2AB39BA600C2E23C /* iflix.png in Resources */,
 				4168053B2AB0CD40007F4D15 /* LaunchScreen.storyboard in Resources */,
 				416805382AB0CD40007F4D15 /* Assets.xcassets in Resources */,
 				416805362AB0CD3E007F4D15 /* Main.storyboard in Resources */,
