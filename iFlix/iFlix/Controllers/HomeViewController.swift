@@ -45,6 +45,7 @@ class HomeViewController: UIViewController {
               homeFeedTable.tableHeaderView = headerView
         //      configureHeroHeaderView()
         
+        getTrendingMovies()
        
     }
     
@@ -65,6 +66,12 @@ class HomeViewController: UIViewController {
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
         homeFeedTable.frame = view.bounds
+    }
+    
+    private func getTrendingMovies() {
+        APICaller.shared.getTrendingMovies { _ in
+            
+        }
     }
     
 }
