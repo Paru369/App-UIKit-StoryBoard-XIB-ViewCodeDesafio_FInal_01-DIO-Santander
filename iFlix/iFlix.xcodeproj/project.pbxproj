@@ -22,6 +22,7 @@
 		41B222B02AB3C97E00C2E23C /* TitleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222AF2AB3C97E00C2E23C /* TitleModel.swift */; };
 		41B222B22AB3D0EE00C2E23C /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222B12AB3D0ED00C2E23C /* APICaller.swift */; };
 		41B222B42AB3D15E00C2E23C /* ResponseModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222B32AB3D15E00C2E23C /* ResponseModels.swift */; };
+		41B222B62AB50FCE00C2E23C /* TitleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222B52AB50FCE00C2E23C /* TitleCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		41B222AF2AB3C97E00C2E23C /* TitleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleModel.swift; sourceTree = "<group>"; };
 		41B222B12AB3D0ED00C2E23C /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		41B222B32AB3D15E00C2E23C /* ResponseModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponseModels.swift; sourceTree = "<group>"; };
+		41B222B52AB50FCE00C2E23C /* TitleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 			children = (
 				41B222A92AB231C600C2E23C /* CollectionViewTableViewCell.swift */,
 				41B222AB2AB3990F00C2E23C /* HeroHeaderUIView.swift */,
+				41B222B52AB50FCE00C2E23C /* TitleCollectionViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41B222B02AB3C97E00C2E23C /* TitleModel.swift in Sources */,
+				41B222B62AB50FCE00C2E23C /* TitleCollectionViewCell.swift in Sources */,
 				41B222A12AB1172300C2E23C /* SearchViewController.swift in Sources */,
 				41B222B42AB3D15E00C2E23C /* ResponseModels.swift in Sources */,
 				416805332AB0CD3E007F4D15 /* MainTabBarViewController.swift in Sources */,
