@@ -31,6 +31,8 @@
 		41B222C32AB517FE00C2E23C /* TitlePreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222C22AB517FE00C2E23C /* TitlePreviewViewController.swift */; };
 		41B222C52AB5184600C2E23C /* SearchResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222C42AB5184600C2E23C /* SearchResultsViewController.swift */; };
 		41B222C92AB5199900C2E23C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222C82AB5199900C2E23C /* Extensions.swift */; };
+		41B222CB2AB51A3700C2E23C /* DataPersistenceManager { .swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222CA2AB51A3700C2E23C /* DataPersistenceManager { .swift */; };
+		41B222CD2AB51A6B00C2E23C /* DownloadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222CC2AB51A6B00C2E23C /* DownloadManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +60,8 @@
 		41B222C22AB517FE00C2E23C /* TitlePreviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitlePreviewViewController.swift; sourceTree = "<group>"; };
 		41B222C42AB5184600C2E23C /* SearchResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsViewController.swift; sourceTree = "<group>"; };
 		41B222C82AB5199900C2E23C /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		41B222CA2AB51A3700C2E23C /* DataPersistenceManager { .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DataPersistenceManager { .swift"; sourceTree = "<group>"; };
+		41B222CC2AB51A6B00C2E23C /* DownloadManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +167,8 @@
 			isa = PBXGroup;
 			children = (
 				41B222B12AB3D0ED00C2E23C /* APICaller.swift */,
+				41B222CA2AB51A3700C2E23C /* DataPersistenceManager { .swift */,
+				41B222CC2AB51A6B00C2E23C /* DownloadManager.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -258,8 +264,10 @@
 				41B222AC2AB3990F00C2E23C /* HeroHeaderUIView.swift in Sources */,
 				41B222C12AB515FE00C2E23C /* TitleTableViewCell.swift in Sources */,
 				41B222A32AB1176700C2E23C /* DownloadsViewController.swift in Sources */,
+				41B222CD2AB51A6B00C2E23C /* DownloadManager.swift in Sources */,
 				4168052F2AB0CD3E007F4D15 /* AppDelegate.swift in Sources */,
 				416805312AB0CD3E007F4D15 /* SceneDelegate.swift in Sources */,
+				41B222CB2AB51A3700C2E23C /* DataPersistenceManager { .swift in Sources */,
 				41B222B22AB3D0EE00C2E23C /* APICaller.swift in Sources */,
 				41B2229F2AB116F100C2E23C /* UpcomingViewController.swift in Sources */,
 				41B2229D2AB1165B00C2E23C /* HomeViewController.swift in Sources */,
