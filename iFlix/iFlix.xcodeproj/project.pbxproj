@@ -33,6 +33,7 @@
 		41B222C92AB5199900C2E23C /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222C82AB5199900C2E23C /* Extensions.swift */; };
 		41B222CB2AB51A3700C2E23C /* DataPersistenceManager { .swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222CA2AB51A3700C2E23C /* DataPersistenceManager { .swift */; };
 		41B222CD2AB51A6B00C2E23C /* DownloadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222CC2AB51A6B00C2E23C /* DownloadManager.swift */; };
+		41B222D02AB51BEF00C2E23C /* IFLIXModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 41B222CE2AB51BEF00C2E23C /* IFLIXModel.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		41B222C82AB5199900C2E23C /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		41B222CA2AB51A3700C2E23C /* DataPersistenceManager { .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DataPersistenceManager { .swift"; sourceTree = "<group>"; };
 		41B222CC2AB51A6B00C2E23C /* DownloadManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadManager.swift; sourceTree = "<group>"; };
+		41B222CF2AB51BEF00C2E23C /* IFLIXModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = IFLIXModel.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				416805392AB0CD40007F4D15 /* LaunchScreen.storyboard */,
 				4168053C2AB0CD40007F4D15 /* Info.plist */,
 				41B222C82AB5199900C2E23C /* Extensions.swift */,
+				41B222CE2AB51BEF00C2E23C /* IFLIXModel.xcdatamodeld */,
 			);
 			path = iFlix;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				41B222B02AB3C97E00C2E23C /* TitleModel.swift in Sources */,
 				41B222C32AB517FE00C2E23C /* TitlePreviewViewController.swift in Sources */,
 				41B222B62AB50FCE00C2E23C /* TitleCollectionViewCell.swift in Sources */,
+				41B222D02AB51BEF00C2E23C /* IFLIXModel.xcdatamodeld in Sources */,
 				41B222A12AB1172300C2E23C /* SearchViewController.swift in Sources */,
 				41B222B42AB3D15E00C2E23C /* ResponseModels.swift in Sources */,
 				416805332AB0CD3E007F4D15 /* MainTabBarViewController.swift in Sources */,
@@ -511,6 +515,19 @@
 			productName = SDWebImageMapKit;
 		};
 /* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		41B222CE2AB51BEF00C2E23C /* IFLIXModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				41B222CF2AB51BEF00C2E23C /* IFLIXModel.xcdatamodel */,
+			);
+			currentVersion = 41B222CF2AB51BEF00C2E23C /* IFLIXModel.xcdatamodel */;
+			path = IFLIXModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 416805232AB0CD3E007F4D15 /* Project object */;
 }
