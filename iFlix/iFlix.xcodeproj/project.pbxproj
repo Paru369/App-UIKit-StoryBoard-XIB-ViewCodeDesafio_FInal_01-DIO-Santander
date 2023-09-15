@@ -27,6 +27,7 @@
 		41B222BB2AB5111900C2E23C /* SDWebImageMapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 41B222BA2AB5111900C2E23C /* SDWebImageMapKit */; };
 		41B222BD2AB5138C00C2E23C /* TitlePreviewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222BC2AB5138C00C2E23C /* TitlePreviewViewModel.swift */; };
 		41B222BF2AB513A400C2E23C /* TitleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222BE2AB513A400C2E23C /* TitleViewModel.swift */; };
+		41B222C12AB515FE00C2E23C /* TitleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222C02AB515FE00C2E23C /* TitleTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		41B222B52AB50FCE00C2E23C /* TitleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleCollectionViewCell.swift; sourceTree = "<group>"; };
 		41B222BC2AB5138C00C2E23C /* TitlePreviewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitlePreviewViewModel.swift; sourceTree = "<group>"; };
 		41B222BE2AB513A400C2E23C /* TitleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleViewModel.swift; sourceTree = "<group>"; };
+		41B222C02AB515FE00C2E23C /* TitleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				41B222A92AB231C600C2E23C /* CollectionViewTableViewCell.swift */,
 				41B222AB2AB3990F00C2E23C /* HeroHeaderUIView.swift */,
 				41B222B52AB50FCE00C2E23C /* TitleCollectionViewCell.swift */,
+				41B222C02AB515FE00C2E23C /* TitleTableViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				416805332AB0CD3E007F4D15 /* MainTabBarViewController.swift in Sources */,
 				41B222AA2AB231C600C2E23C /* CollectionViewTableViewCell.swift in Sources */,
 				41B222AC2AB3990F00C2E23C /* HeroHeaderUIView.swift in Sources */,
+				41B222C12AB515FE00C2E23C /* TitleTableViewCell.swift in Sources */,
 				41B222A32AB1176700C2E23C /* DownloadsViewController.swift in Sources */,
 				4168052F2AB0CD3E007F4D15 /* AppDelegate.swift in Sources */,
 				416805312AB0CD3E007F4D15 /* SceneDelegate.swift in Sources */,
