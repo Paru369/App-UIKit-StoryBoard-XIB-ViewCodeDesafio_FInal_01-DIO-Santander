@@ -29,6 +29,7 @@
 		41B222BF2AB513A400C2E23C /* TitleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222BE2AB513A400C2E23C /* TitleViewModel.swift */; };
 		41B222C12AB515FE00C2E23C /* TitleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222C02AB515FE00C2E23C /* TitleTableViewCell.swift */; };
 		41B222C32AB517FE00C2E23C /* TitlePreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222C22AB517FE00C2E23C /* TitlePreviewViewController.swift */; };
+		41B222C52AB5184600C2E23C /* SearchResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B222C42AB5184600C2E23C /* SearchResultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		41B222BE2AB513A400C2E23C /* TitleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleViewModel.swift; sourceTree = "<group>"; };
 		41B222C02AB515FE00C2E23C /* TitleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleTableViewCell.swift; sourceTree = "<group>"; };
 		41B222C22AB517FE00C2E23C /* TitlePreviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitlePreviewViewController.swift; sourceTree = "<group>"; };
+		41B222C42AB5184600C2E23C /* SearchResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				41B222A02AB1172300C2E23C /* SearchViewController.swift */,
 				41B222A22AB1176700C2E23C /* DownloadsViewController.swift */,
 				41B222C22AB517FE00C2E23C /* TitlePreviewViewController.swift */,
+				41B222C42AB5184600C2E23C /* SearchResultsViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				41B222A12AB1172300C2E23C /* SearchViewController.swift in Sources */,
 				41B222B42AB3D15E00C2E23C /* ResponseModels.swift in Sources */,
 				416805332AB0CD3E007F4D15 /* MainTabBarViewController.swift in Sources */,
+				41B222C52AB5184600C2E23C /* SearchResultsViewController.swift in Sources */,
 				41B222AA2AB231C600C2E23C /* CollectionViewTableViewCell.swift in Sources */,
 				41B222AC2AB3990F00C2E23C /* HeroHeaderUIView.swift in Sources */,
 				41B222C12AB515FE00C2E23C /* TitleTableViewCell.swift in Sources */,
