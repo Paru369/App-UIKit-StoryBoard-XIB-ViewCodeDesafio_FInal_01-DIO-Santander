@@ -1,4 +1,3 @@
-# IN PROGRESS ...
 
 
 <h1>
@@ -11,13 +10,13 @@
   <h2 align="center">
     Mobile iOS com Swift
 </h2>
-Estudo ingles e  construir um APP com noticias variadas. 
+Aplicativo de streaming de videos, utlizei as APIs do TheMovieDB e Youtube-V3 para ter os dados dos filmes e imagens.
 
-Aplicativo de videos iOS usando o Swift 5. O instrutor. O projeto inclui recursos como listas de filmes populares, pesquisa, trailers de filmes e uma interface de usuário intuitiva.
+Aplicativo de videos iOS usando o Swift 5. O projeto inclui recursos como listas de filmes populares, pesquisa, trailers de filmes e uma interface de usuário intuitiva.
 
 ## ✅ Features
 📱 Desenvolvimento iOS com Swift 5.
-🍿 Criação de um concorrente open source para Netflix.
+🍿 App para streaming de filmes
 📺 Interface de usuário semelhante à da Netflix.
 🎬 Listas de filmes populares e próximos.
 🔍 Recurso de pesquisa.
@@ -33,7 +32,7 @@ Aplicativo de videos iOS usando o Swift 5. O instrutor. O projeto inclui recurso
 - MVVM 
 - APIs : https://api.themoviedb.org + https://youtube.googleapis.com/youtube/v3
 - JSON to struct: https://app.quicktype.io/
-- Packages : 
+- Packages : SDWebImage
 
 ## 📲 Images
 TODO
