@@ -15,12 +15,12 @@ Aplicativo de streaming de videos, utlizei as APIs do TheMovieDB e Youtube-V3 pa
 Aplicativo de videos iOS usando o Swift 5. O projeto inclui recursos como listas de filmes populares, pesquisa, trailers de filmes e uma interface de usuário intuitiva.
 
 ## ✅ Features
-📱 Desenvolvimento iOS com Swift 5.
-🍿 App para streaming de filmes
-📺 Interface de usuário semelhante à da Netflix.
-🎬 Listas de filmes populares e próximos.
-🔍 Recurso de pesquisa.
-🎥 Reprodução de trailers de filmes.
+📱 Desenvolvimento iOS com Swift 5. <br>
+🍿 App para streaming de filmes <br>
+📺 Interface de usuário semelhante à da Netflix. <br>
+🎬 Listas de filmes populares e próximos. <br>
+🔍 Recurso de pesquisa. <br>
+🎥 Reprodução de trailers de filmes. 
 <br>
 <br>
 
@@ -36,9 +36,8 @@ Aplicativo de videos iOS usando o Swift 5. O projeto inclui recursos como listas
 
 ## 📲 Images
 
-<img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix.gif"> 
-<img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix.png"> 
-  
+<img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix.gif">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix1.png">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix2.png">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix3.png">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix4.png">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix5.png"> 
+          
   
   
 ## ☑️ Requirements
