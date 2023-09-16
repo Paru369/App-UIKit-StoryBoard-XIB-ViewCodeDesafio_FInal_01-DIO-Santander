@@ -36,8 +36,10 @@ Aplicativo de videos iOS usando o Swift 5. O projeto inclui recursos como listas
 
 ## 📲 Images
 
-<img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/images/iflix.gif"> <img 
-  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/images/iflix.gif"> <img 
+<img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix.gif"> 
+<img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix.png"> 
+  
+  
   
 ## ☑️ Requirements
 
