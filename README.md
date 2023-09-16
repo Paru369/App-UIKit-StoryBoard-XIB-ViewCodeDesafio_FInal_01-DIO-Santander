@@ -35,9 +35,9 @@ Aplicativo de videos iOS usando o Swift 5. O projeto inclui recursos como listas
 - Packages : SDWebImage
 
 ## 📲 Images
-TODO
-<img align="center" width="200px" src="https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander/blob/main/images/inews.gif"> <img align="center" width="200px" src="https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander/blob/main/images/inews1.png"> <img align="center" width="200px" src="https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander/blob/main/images/inews2.png"> <img align="center" width="200px" src="https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander/blob/main/images/inewserror.png">
-  
+
+<img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/images/iflix.gif"> <img 
+  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/images/iflix.gif"> <img 
   
 ## ☑️ Requirements
 
