@@ -14,6 +14,8 @@ Aplicativo de streaming de videos, utlizei as APIs do TheMovieDB e Youtube-V3 pa
 
 Aplicativo de videos iOS usando o Swift 5. O projeto inclui recursos como listas de filmes populares, pesquisa, trailers de filmes e uma interface de usuário intuitiva.
 
+Obs: Nomei como iFlix mas ao perceber que o app ja existia utilizei sua logo, mas não trata-se do clone do iFlix
+
 ## ✅ Features
 📱 Desenvolvimento iOS com Swift 5. <br>
 🍿 App para streaming de filmes <br>
