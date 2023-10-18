@@ -26,9 +26,6 @@ Obs: Nomei como iFlix mas ao perceber que o app ja existia utilizei sua logo, ma
 <br>
 <br>
 
-## ✅ Extras
-
-
 ## 📱 Technologies and knowledges 
 - UIKit 
 - MVVM 
@@ -40,12 +37,9 @@ Obs: Nomei como iFlix mas ao perceber que o app ja existia utilizei sua logo, ma
 
 <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix.gif">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix1.png">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix2.png">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix3.png">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix4.png">  <img align="center" width="200px" src="https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander/blob/main/images/iflix5.png"> 
           
-  
-  
 ## ☑️ Requirements
 
 - [XCode](https://developer.apple.com/xcode/)
-
 
 ## ⚙️ How to RUN
 
@@ -88,7 +82,6 @@ If you would like to contribuite, make a fork and send a PR.
 ### 🎁 Thanks
 
 Thanks to my cats that help me on coding.
-
 
 Thanks DIO and Santander for this Bootcamp
 
