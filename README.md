@@ -1,5 +1,3 @@
-
-
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -88,4 +86,3 @@ Thanks DIO and Santander for this Bootcamp
 ___
 
 ⌨️ with ❤️ by [Paulo Victor](https://github.com/Paru369) 👨🏾‍💻📱
-
